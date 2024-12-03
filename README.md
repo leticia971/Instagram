@@ -10,8 +10,6 @@ As ferramentas utilizadas nesse projeto são HTML5, CSS 3 e Bootstrap.,
 <br>A versão do Bootstrap utilizada no projeto é a ve.3.3 (Dezembro de 2024)
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
 
