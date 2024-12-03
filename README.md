@@ -20,4 +20,4 @@ As ferramentas utilizadas nesse projeto são HTML5, CSS 3 e Bootstrap.,
 </div>
 
 ### Deploy ###
-A hospedagem do projeto foi feita no Vercel, e está disponível através do <a
+A hospedagem do projeto foi feita no Vercel, e está disponível através do <a href="https://instagram-ckdq.vercel.app/">link</a>.
